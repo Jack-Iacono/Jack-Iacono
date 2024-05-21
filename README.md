@@ -1,8 +1,11 @@
-My name is John (Jack) Iacono, most call me Jack, but I am okay with either. I mostly code for fun, but am also studying at Marist and hope to graduate with a Bachelors in Games and Emerging Media
+## Overview
+My name is Jack Iacono and I am an aspiring Gameplay Programmer with experience within many generes of games, scripting langauges and engines. 
 
-Most of these projects were created with the sole purpose of gaining expirience with the various genres that they are associated with. If any of my work is of interest to you, or if you would like to send any constructive critisism, please feel free to let me know.
+These projects all demonstrate my skills in a variety of different ways and each were crucial in helping me develop the skillset that I have today. If you have any questions about any code on my page or would like to get in touch with me for any reason, feel free to reach out to me on LinkedIn.
 
-<!---
-Jack-Iacono/Jack-Iacono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Helpful Links
+### Portfolio
+https://jackjiacono.wixsite.com/john-iacono
+
+### LinkedIn
+https://www.linkedin.com/in/jjiacono/
